@@ -1,0 +1,16 @@
+{
+  "name": "1221111",
+  "version": "1.0.0",
+  "description": "сборка guip",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fls",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.2.2"
+  }
+}
